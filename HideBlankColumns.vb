@@ -1,4 +1,4 @@
-Public Sub HydeEmptyColumns()
+Public Sub HideEmptyColumns()
 
   Dim rng As Range
   Dim nLastRow As Long
